@@ -1,0 +1,96 @@
+/* body {
+  font-family: Arial, sans-serif;
+  background: #f9f9f9;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+form input[type="text"] {
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form label {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.9rem;
+}
+
+form button {
+  padding: 6px 12px;
+  background: #e5e7eb;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background: #d1d5db;
+}
+
+.employeeCard {
+  border: 1px solid #ccc;
+  background: #fff;
+  border-radius: 6px;
+  padding: 12px;
+  margin: 10px auto;
+  max-width: 500px;
+}
+
+.employeeCard p {
+  margin: 6px 0;
+}
+
+.employeeCardActions {
+  margin-top: 10px;
+  display: flex;
+  gap: 8px;
+}
+
+.employeeCardActions button {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  background: #f1f1f1;
+}
+
+.employeeCardActions button:hover {
+  background: #ddd;
+}
+
+.employeeCardActions button:first-child {
+  background: #459BAC;
+  color: white;
+  border: none;
+}
+
+.employeeCardActions button:first-child:hover {
+  background: #357c86;
+}
+
+.employeeCardActions button:last-child {
+  background: #ef4444;
+  color: white;
+  border: none;
+}
+
+.employeeCardActions button:last-child:hover {
+  background: #dc2626;
+} */
